@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = patriciopherrero@gmail.com
+	name = Patricio Perez Herrero
